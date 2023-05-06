@@ -1,0 +1,2 @@
+C:\Users\AAA\Desktop\MonkeVirus\x64\Release\MonkeVirus.exe
+C:\Users\AAA\Desktop\MonkeVirus0.1\x64\Release\MonkeVirus.exe
